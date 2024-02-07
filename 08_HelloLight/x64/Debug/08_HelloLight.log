@@ -1,0 +1,4 @@
+﻿  GameState.cpp
+  WinMain.cpp
+  Generating Code...
+LINK : fatal error LNK1104: cannot open file 'C:\Users\User\Desktop\SpringEngine\x64\Debug\Graphics.lib'
